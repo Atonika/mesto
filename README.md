@@ -9,4 +9,4 @@
 
 **Сыллка на страницу**
 
-https://hytekcoop.github.io/mesto/
+https://atonika.github.io/mesto/
